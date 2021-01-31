@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "165343586475",
-    "project_id": "projekabsensi",
-    "storage_bucket": "projekabsensi.appspot.com"
+    "project_number": "269963139185",
+    "project_id": "project-absensi-afa93",
+    "storage_bucket": "project-absensi-afa93.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:165343586475:android:fb5ab53c3ae78899816fee",
+        "mobilesdk_app_id": "1:269963139185:android:a00b809671947d513b23d0",
         "android_client_info": {
           "package_name": "com.android.projectabsensi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "165343586475-idgvsbfmsmnnptun0vlnrg548ijucah9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.android.projectabsensi",
-            "certificate_hash": "9913547b9b9c15dd7e7ddb19e9285d7ec7e6cdc8"
-          }
-        },
-        {
-          "client_id": "165343586475-d0uv2gpit71e3k1el7sd0nqb2klc7s4e.apps.googleusercontent.com",
+          "client_id": "269963139185-cjtku5dlfnhareadi3021dmtskneo2jd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAPXS9h-wCTrOnS0ZD1l1k0RvSGfMfsZeU"
+          "current_key": "AIzaSyCQKbVV8N5g6kuvYvJz5_AS8j_iaqFYFns"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "165343586475-d0uv2gpit71e3k1el7sd0nqb2klc7s4e.apps.googleusercontent.com",
+              "client_id": "269963139185-cjtku5dlfnhareadi3021dmtskneo2jd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
